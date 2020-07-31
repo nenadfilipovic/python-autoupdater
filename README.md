@@ -39,7 +39,7 @@ At start script check local and remote versions and if needed download new versi
 
 ## Built With
 
-* [Python](https://www.python.org/) - Language used
+* [Python](https://www.python.org/)
 
 ## Authors
 
