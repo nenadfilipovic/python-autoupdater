@@ -1,4 +1,4 @@
-# Python Autoupdater
+# Python autoupdater
 
 Script that check user defined github repository for new version of firmware, then downloads it and remove old one.
 
