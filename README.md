@@ -6,7 +6,7 @@ Created for using with esp32/esp8266 boards in mind.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/python-autoupdater
@@ -47,7 +47,7 @@ At start script check local and remote versions and if needed download new versi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
